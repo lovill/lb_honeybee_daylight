@@ -13,4 +13,4 @@ Finally, follow [these instructions](https://github.com/ladybug-tools/lbt-grassh
 ## Example Files
 
 [Annual Daylight simulations](examples/annual_daylight/)
-![](imgs\annual_daylight_custom_gradient.PNG)
+![](imgs\ann.jpg)
