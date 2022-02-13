@@ -12,7 +12,19 @@ Finally, follow [these instructions](https://github.com/ladybug-tools/lbt-grassh
 
 ## Example Files
 
+[Direct Sunlight Hours](examples/sunlight_hours/)
+This file will cover a simple setup to run direct sunlight analysis with Ladybug. Topics include:
+- Gather weather data and plot sun paths.
+- Custom analysis periods.
+- Result visualization and metric calculation.
+
+![](imgs/dsh.jpg)
+
 [Annual Daylight simulations](examples/annual_daylight/)
-This file will cover a simple setup to run annual daylight metrics including daylight autonomy and usefule daylight illuminance.
+This file will cover the following topics:
+- Gather weather data and plot sun paths.
+- Setup simple annual daylight simulation model.
+- Visualize results with custom gradients.
+- Introduction to daylight availability metrics including *daylight autonomy* (DA) and *usefule daylight illuminance* (UDI).
 
 ![](imgs/ann.jpg)
