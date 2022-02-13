@@ -14,4 +14,5 @@ Finally, follow [these instructions](https://github.com/ladybug-tools/lbt-grassh
 
 [Annual Daylight simulations](examples/annual_daylight/)
 This file will cover a simple setup to run annual daylight metrics including daylight autonomy and usefule daylight illuminance.
+
 ![](imgs/ann.jpg)
