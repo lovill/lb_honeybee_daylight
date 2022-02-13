@@ -9,3 +9,7 @@ Follow the instructions [here](https://github.com/ladybug-tools/lbt-grasshopper/
 Note: you will need an account on [Food4Rhino](https://food4rhino.com/) to download Grasshopper add-ons. For general instructions to install Grasshopper plugins follow this [link](https://www.food4rhino.com/en/faq#users-install-grasshopper-plugin).
 
 Finally, follow [these instructions](https://github.com/ladybug-tools/lbt-grasshopper/wiki/1.3-Verifying-Your-Installation) to check if the installation has been done correctly.
+
+## Example Files
+
+[Annual Daylight simulations](examples/annual_daylight/)
