@@ -25,6 +25,6 @@ This file will cover the following topics:
 - Gather weather data and plot sun paths.
 - Setup simple annual daylight simulation model.
 - Visualize results with custom gradients.
-- Introduction to daylight availability metrics including *daylight autonomy* (DA) and *usefule daylight illuminance* (UDI).
+- Introduction to daylight availability metrics including *daylight autonomy* (DA) and *useful daylight illuminance* (UDI).
 
 ![](imgs/ann.jpg)
