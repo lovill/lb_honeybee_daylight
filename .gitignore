@@ -114,3 +114,5 @@ dmypy.json
 # *.3dm
 *.3dm.rhl
 *.3dmbak
+
+archive/
